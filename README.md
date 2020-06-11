@@ -1,2 +1,2 @@
-# pernstack
+# Pernstack
 PERN Stack Tutorial
