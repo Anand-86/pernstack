@@ -5,8 +5,8 @@ A PERN full stack tutorial website by The Stoic Programmers. Original Youtube vi
 ## Tech Used
 
 ⚡️ CSS3
-⚡️ HTML
 ⚡️ Flexbox
+⚡️ Bootstrap 4
 ⚡️ PostgreSQL
 ⚡️ Express
 ⚡️ React Hooks
